@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/346806.jpg");
+}
+
+#Nav {
+    color:wheat;
+}
+
+#temp {
+    color: orangered;
+}
+
+#humid {
+    color: blue;
+}
+
+#sun {
+    color: rgb(255, 204, 0);
+}
+
+.card-body {
+    background-image: url("https://wallpaperaccess.com/full/346806.jpg");
+}
+
+.d-flex {
+    padding-right: 31.3rem;
+}
